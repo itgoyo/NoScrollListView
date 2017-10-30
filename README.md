@@ -8,7 +8,7 @@ import android.util.AttributeSet;
 import android.widget.ListView;
 
 /**
- * Created by itgoyo on 2017/8/9.
+ * Created by itgoyo on 2017/10/30.
  * 了解更多  https://github.com/itgoyo
  * 更新时间 2017/10/30
  * 更新描述  解决ScrolView与ListView滑动冲突
